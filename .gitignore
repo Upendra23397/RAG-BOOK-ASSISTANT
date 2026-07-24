@@ -1,0 +1,18 @@
+# Virtual Environment
+rag-book/
+
+# Environment Variables
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Chroma database
+chroma_db/
+
+# Streamlit
+.streamlit/
+
+# Temporary files
+*.tmp
