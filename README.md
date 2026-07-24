@@ -445,10 +445,4 @@ This project demonstrates:
 
 # 👨‍💻 Author
 
-Your Name
-
----
-
-# 📜 License
-
-MIT License
+Upendra Chauhan
